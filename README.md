@@ -6,3 +6,6 @@
 - Unterstreichung: `text-decoration`
 - Schriftstärke: `font-weight`
 - Schriftart: `font-family`
+
+## Hintergrund
+- Hintergrundfarbe: `background-image
